@@ -1,0 +1,28 @@
+{
+  "name": "alias-module",
+  "version": "1.0.0",
+  "description": "Alias your local node modules to be required like installed modules",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrf0110/alias-module.git"
+  },
+  "keywords": [
+    "Alias",
+    "Module"
+  ],
+  "author": "John Fawcett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrf0110/alias-module/issues"
+  },
+  "homepage": "https://github.com/jrf0110/alias-module"
+}
